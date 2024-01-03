@@ -1,1 +1,1 @@
-# College-Database-Management-System
+# College DBMS
